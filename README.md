@@ -1,0 +1,1 @@
+A craigslist webscraper built with C#. The user is allowed to select the city and category that they would like to scrape information from.
